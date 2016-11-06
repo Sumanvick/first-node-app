@@ -1,0 +1,15 @@
+{
+  "name": "first-node-app",
+  "version": "1.0.0",
+  "description": "Start the node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vick",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "nodemon": "^1.11.0"
+  }
+}
